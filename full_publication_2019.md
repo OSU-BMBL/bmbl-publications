@@ -1,20 +1,13 @@
 
-[28] Gene Regulatory Networks for Lignin Biosynthesis in Switchgrass (Panicum virgatum).
+[24] Gene Regulatory Networks for Lignin Biosynthesis in Switchgrass (Panicum virgatum).
 Xiaolan Rao, Xin Chen, Hui Shen, **Qin Ma**, Guifen Li, Yuhong Tang, Maria Pena, William York, Taylor Frazier, Scott Lenaghan, Xirong Xiao, Fang Chen and Richard A. Dixon<sup>$</sup>
 *Plant Biotechnology Journal*
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30133139/) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2019-Gene-regulatory-networks-for-lignin-biosynthesis-inswitchgrassPanicum-virgatum.pdf)
 
----
-
-[27] SGL-SVM: a novel method for tumor classification via support vector machine with sparse group Lasso.
-Yanhao Huo, Lihui Xin, Chuanze Kang, Minghui Wang, **Qin Ma**<sup>$</sup>, Bin Yu<sup>$</sup>
-*Journal of Theoretical Biology*
-[[Abstract]](https://www.sciencedirect.com/science/article/pii/S0022519319304679) [[Full paper]](https://u.osu.edu/bmbl/files/2020/08/1-s2.0-S0022519319304679-main.pdf)
-
 
 ---
 
-[26] Measurement of Conditional Relatedness Between Genes Using Fully Convolutional Neural Network.
+[23] Measurement of Conditional Relatedness Between Genes Using Fully Convolutional Neural Network.
 Yan Wang, Shuangquan Zhang, Lili Yang, Sen Yang, Yuan Tian<sup>$</sup>, **Qin Ma**<sup>$</sup>
 *Frontiers in Genetics*
 [[Abstract]](https://www.frontiersin.org/articles/10.3389/fgene.2019.01009/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=463811) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/10/fgene-10-01009.pdf)
@@ -22,7 +15,7 @@ Yan Wang, Shuangquan Zhang, Lili Yang, Sen Yang, Yuan Tian<sup>$</sup>, **Qin Ma
 
 ---
 
-[25] Single-cell RNA sequencing of plant-associated bacterial communities.
+[22] Single-cell RNA sequencing of plant-associated bacterial communities.
 **Qin Ma**, Heike Bücking, Jose L. Gonzalez Hernandez, Sen Subramanian<sup>$</sup>
 *Frontiers in Microbiology*
 [[Abstract]](https://www.frontiersin.org/articles/10.3389/fmicb.2019.02452/full) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/10/fmicb-10-02452.pdf)
@@ -30,57 +23,42 @@ Yan Wang, Shuangquan Zhang, Lili Yang, Sen Yang, Yuan Tian<sup>$</sup>, **Qin Ma
 
 ---
 
-[24] LTMG: A novel statistical modeling of transcriptional expression states in single-cell RNA-Seq data.
+[21] LTMG: A novel statistical modeling of transcriptional expression states in single-cell RNA-Seq data.
 Changlin Wan, Wennan Chang, Yu Zhang, Fenil Shah, Xiaoyu Lu, Yong Zang, Anru Zhang, Sha Cao, Melissa Fishel, **Qin Ma**<sup>$</sup>, Chi Zhang<sup>$</sup>
 *Nucleic Acids Research*
 [[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz655/5542876?rss=1) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/LTMG.pdf)
 
 ---
 
-[23] Prediction of Regulatory Motifs from Human ChIP-Sequencing Data using a Deep Learning Framework.
+[20] Prediction of Regulatory Motifs from Human ChIP-Sequencing Data using a Deep Learning Framework.
 Jinyu Yang, Anjun Ma, Adam D. Hoppe, Cankun Wang, Yang Li, Chi Zhang, Yan Wang, Bingqiang Liu<sup>$</sup>, **Qin Ma**<sup>$</sup>
 *Nucleic Acids Research*
 [[Abstract]](https://academic.oup.com/nar/article/47/15/7809/5542889?guestAccessKey=1ae813b7-d8bb-4866-b51c-343583591b94) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/DESSO.pdf)
 
 ---
 
-[22] IRIS-EDA: An integrated RNA-Seq interpretation system for gene expression data analysis. 
+[19] IRIS-EDA: An integrated RNA-Seq interpretation system for gene expression data analysis. 
 Brandon Monier<sup>\*</sup>, Adam McDermaid<sup>\*</sup>, Cankun Wang, Jing Zhao, Allison Miller, Anne Fennell, **Qin Ma**<sup>$</sup>
 *PLoS Computational Biology*
 [[Abstract]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006792) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2019-IRIS-EDA-An-integrated-RNA-Seq-interpretation-system-for-gene-expression-data-analysis.pdf)
 
 ---
 
-[21] SubMito-XGBoost: predicting protein submitochondrial localization by fusing multiple feature information and eXtreme gradient boosting.
-Bin Yu<sup>$</sup>, Wenying Qiu, Cheng Chen, Anjun Ma, Jing Jiang, Hongyan Zhou, **Qin Ma**<sup>$</sup>
-*Bioinformatics*
-[[Abstract]](https://academic.oup.com/bioinformatics/article/36/4/1074/5585744?guestAccessKey=73ca5b12-d4a6-4a0f-bfff-447606f0f7a3) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/10/btz734.pdf)
-
----
-
-[20] QUBIC2: A novel and robust biclustering algorithm for analyses and interpretation of large-scale RNA-Seq data.
-Juan Xie, Anjun Ma, Yu Zhang, Bingqiang Liu, Sha Cao, Cankun Wang, Jennifer Xu, Chi Zhang<sup>$</sup>, **Qin Ma**<sup>$</sup>
-*Bioinformatics*
-[[Abstract]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz692/5567116) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/09/qubic2.pdf)
-
-
----
-
-[19] Protein-protein interaction sites prediction by ensembling random forests with synthetic minority oversampling technique.
+[18] Protein-protein interaction sites prediction by ensembling random forests with synthetic minority oversampling technique.
 Xiaoying Wang<sup>\*</sup>, Bin Yu<sup>$</sup><sup>\*</sup>, Anjun Ma, Cheng Chen, Bingqiang Liu, **Qin Ma**<sup>$</sup>
 *Bioinformatics*
 [[Abstract]](https://academic.oup.com/bioinformatics/article/35/14/2395/5231852) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2019-Protein-protein-interaction-sites-prediction-by-ensembling-random-forests-with-synthetic-minority-oversampling-technique.pdf)
 
 ---
 
-[18] MetaQUBIC: a computational pipeline for gene-level functional profiling of metagenome and metatranscriptome.
+[17] MetaQUBIC: a computational pipeline for gene-level functional profiling of metagenome and metatranscriptome.
 Anjun Ma<sup>\*</sup>, Minxuan Sun<sup>\*</sup>, Adam McDermaid, Bingqiang Liu<sup>$</sup>, **Qin Ma**<sup>$</sup>
 *Bioinformatics*
 [[Abstract]](https://academic.oup.com/bioinformatics/article/35/21/4474/5497255) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/MetaQUBIC.pdf)
 
 ---
 
-[17] MetaMed: Linking Microbiota Functions with Medicine Therapeutics.
+[16] MetaMed: Linking Microbiota Functions with Medicine Therapeutics.
 Han Zhao, Shaliu Fu, Yifei Yu, Zhanbing Zhang, Ping Li, **Qin Ma**, Wei Jia, Kang Ning, Shen Qu, Qi Liu<sup>$</sup>
 *American Society for Microbiology*
 [[Abstract]](https://msystems.asm.org/content/4/5/e00413-19) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/10/mSystems-2019-Zhao-e00413-19.full_.pdf)
@@ -88,7 +66,7 @@ Han Zhao, Shaliu Fu, Yifei Yu, Zhanbing Zhang, Ping Li, **Qin Ma**, Wei Jia, Kan
 
 ---
 
-[16] Predicting Golgi-resident Protein Types Using Conditional Covariance Minimization with XGBoost Based on Multiple Features Fusion.
+[15] Predicting Golgi-resident Protein Types Using Conditional Covariance Minimization with XGBoost Based on Multiple Features Fusion.
 Hongyan Zhou, Cheng Chen, Minghui Wang, **Qin Ma**, Bin Yu<sup>$</sup>
 *IEEE Access*
 [[Abstract]](https://ieeexplore.ieee.org/document/8817940) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/08817940.pdf)
@@ -96,7 +74,7 @@ Hongyan Zhou, Cheng Chen, Minghui Wang, **Qin Ma**, Bin Yu<sup>$</sup>
 
 ---
 
-[15] Identification of lncRNAs-gene interactions in transcription regulation based on co-expression analysis of RNA-seq data.
+[14] Identification of lncRNAs-gene interactions in transcription regulation based on co-expression analysis of RNA-seq data.
 Sijie Lu, Juan Xie, Yang Li, Bin Yu, **Qin Ma**<sup>$</sup>, Bingqiang Liu<sup>$</sup>
 *Mathematical Biosciences and Engineering*
 [[Abstract]](https://www.aimspress.com/article/10.3934/mbe.2019357) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/Identification-of-lncRNAs-gene-interactions.pdf)
@@ -104,18 +82,11 @@ Sijie Lu, Juan Xie, Yang Li, Bin Yu, **Qin Ma**<sup>$</sup>, Bingqiang Liu<sup>$
 
 ---
 
-[14] Computational Prediction of Sigma-54 Promoters in Bacterial Genomes by Integrating Motif Finding and Machine Learning Strategies.
+[13] Computational Prediction of Sigma-54 Promoters in Bacterial Genomes by Integrating Motif Finding and Machine Learning Strategies.
 Bingqiang Liu , Ling Han, Xiangrong Liu , Jichang Wu, **Qin Ma**<sup>$</sup>
 *EEE/ACM Transactions on Computational Biology and Bioinformatics*
 [[Abstract]](https://ieeexplore.ieee.org/document/8316939) [[Full paper]](https://u.osu.edu/bmbl/files/2020/08/08316939.pdf)
 
-
----
-
-[13] Clustering and Classification Methods for Single-cell RNA-sequencing Data.
-Ren Qi, Anjun Ma, **Qin Ma**, Quan Zou<sup>$</sup>
-*Briefings in Bioinformatics*
-[[Abstract]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbz062/5528236) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/201908BIB-Clustering-and-classification-methods-for-single-cell-RNA-Seq-data.pdf)
 
 
 ---
@@ -192,7 +163,7 @@ Ye Xia, Seth Debolt, **Qin Ma**, Adam McDermaid, Cankun Wang, Nicole Shapiro, Ta
 
 ---
 
-[3] rSeqTU – a machine-learning based R package for prediction of bacterial transcription units.
+[3] rSeqTU–a machine-learning based R package for prediction of bacterial transcription units.
 YSheng-Yong Niu, Bingqiang Liu, **Qin Ma**, Wen-Chi Chou<sup>$</sup>
 *Frontiers in Genetics*
 [[Abstract]](https://www.frontiersin.org/articles/10.3389/fgene.2019.00374/full) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2019-rSeqTU%E2%80%94A-Machine-Learning-Based-R-Package-for-Prediction-of-Bacterial-Transcription-Units.pdf)

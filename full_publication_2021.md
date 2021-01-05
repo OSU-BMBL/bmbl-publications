@@ -1,11 +1,31 @@
 
 ---
 
-[5] Analysis of next- and third-generation RNA-Seq data reveals the structures of alternative transcription units in bacterial genomes.
+[8] Analysis of next- and third-generation RNA-Seq data reveals the structures of alternative transcription units in bacterial genomes.
 Qi Wang, Zhaoqian Liu, Bo Yan, Wen-Chi Chou, Laurence M Ettwiller, **Qin Ma**, Bingqiang Liu<sup>$</sup>
 *bioRxiv*
 [[Abstract]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1.full.pdf)
 
+---
+
+[7] Mitochondrial Calcium Signaling Facilitates Bacterial Survival by Restraining LC3-associated Phagpcytosis.
+Tianliang Li, Ligang Kong, Xinghui Li, Sijin Wu, Kuldeep S.Attri, Yan Li, Weipeng Gong, Lupeng Li, Laura E. Herring, John M. Asara, Yu Lei, **Qin Ma**, Stephanie Seveau, John S Gunn, Xiaolin Cheng, Pankaj L. Singh, Douglas R. Green, Haibo Wang<sup>$</sup>, Haitao Wen<sup>$</sup>
+*Nature Microbiology*
+In press
+
+---
+
+[6] Spectral radius and energy of Sombor matrix of graphs.
+Zhao Wang, Ivan Gutman, Jichang Wu, **Qin Ma**<sup>$</sup>
+*Filomat*
+[In press] [[Full paper]](https://u.osu.edu/bmbl/files/2020/12/Sombor-matrix.pdf)
+
+---
+
+[5] Prediction of proteinprotein interactions based on L1-regularized logistic regression and gradient tree boosting.
+Bin Yu, Cheng Chen, Hongyan Zhou, Bingqiang Liu, **Qin Ma**<sup>$</sup>
+*Genomics, Proteomics & Bioinformatics*
+[In press]
 
 ---
 
@@ -33,3 +53,4 @@ Gioacchino P. Marceca, Rosario Distefano, Luisa Tomasello, Alessandro Lagana’,
 Juexin Wang<sup>\*</sup>, Anjun Ma<sup>\*</sup>, Yuzhou Chang, Jianting Gong, Yuexu Jiang, Hongjun Fu, Cankun Wang, Ren Qi, **Qin Ma**<sup>$</sup>, Dong Xu<sup>$</sup>
 *bioRxiv*
 [[Abstract]](https://www.biorxiv.org/content/10.1101/2020.08.02.233569v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2020.08.02.233569v1.full.pdf)
+
