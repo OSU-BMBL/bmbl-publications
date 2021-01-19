@@ -1,31 +1,45 @@
-
 ---
 
-[8] Analysis of next- and third-generation RNA-Seq data reveals the structures of alternative transcription units in bacterial genomes.
-Qi Wang, Zhaoqian Liu, Bo Yan, Wen-Chi Chou, Laurence M Ettwiller, **Qin Ma**, Bingqiang Liu<sup>$</sup>
-*bioRxiv*
-[[Abstract]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1.full.pdf)
-
----
-
-[7] Mitochondrial Calcium Signaling Facilitates Bacterial Survival by Restraining LC3-associated Phagpcytosis.
+[10] Listeria monocytogenes upregulates mitochondrial calcium signaling to inhibit LC3-associated phagocytosis as a survival strategy.
 Tianliang Li, Ligang Kong, Xinghui Li, Sijin Wu, Kuldeep S.Attri, Yan Li, Weipeng Gong, Lupeng Li, Laura E. Herring, John M. Asara, Yu Lei, **Qin Ma**, Stephanie Seveau, John S Gunn, Xiaolin Cheng, Pankaj L. Singh, Douglas R. Green, Haibo Wang<sup>$</sup>, Haitao Wen<sup>$</sup>
-*Nature Microbiology*
-In press
+*Nature Microbiology (IF: 14.3)*
+[[Abstract]](https://www.nature.com/articles/s41564-020-00843-2) [[Full paper]](https://u.osu.edu/bmbl/files/2021/01/s41564-020-00843-2.pdf)
 
 ---
 
-[6] Spectral radius and energy of Sombor matrix of graphs.
+[9] GTB-PPI: Predict Protein–protein Interactions Based on L1-regularized Logistic Regression and Gradient Tree Boosting.
+Bin Yu, Cheng Chen, Hongyan Zhou, Bingqiang Liu, **Qin Ma**<sup>$</sup>
+*Genomics, Proteomics & Bioinformatics*
+[In press]
+
+---
+
+[8] Spectral radius and energy of Sombor matrix of graphs.
 Zhao Wang, Ivan Gutman, Jichang Wu, **Qin Ma**<sup>$</sup>
 *Filomat*
 [In press] [[Full paper]](https://u.osu.edu/bmbl/files/2020/12/Sombor-matrix.pdf)
 
 ---
 
-[5] Prediction of proteinprotein interactions based on L1-regularized logistic regression and gradient tree boosting.
-Bin Yu, Cheng Chen, Hongyan Zhou, Bingqiang Liu, **Qin Ma**<sup>$</sup>
-*Genomics, Proteomics & Bioinformatics*
-[In press]
+[7] Distinct CD8+ T Cell Programming in the Tumor Microenvironment Contributes to Sex Bias in Bladder Cancer Outcome.
+Hyunwoo Kwon, Dongjun Chung, Satoshi Kaneko, Anqi Li, Lei Zhou, Brian Riesenberg, No-Joon Song, Debasish Sundi, Xue Li, Zihai Li<sup>$</sup>
+*bioRxiv*
+[[Abstract]](https://www.biorxiv.org/content/10.1101/2020.04.13.039735v1.full) [[Full paper]](https://www.biorxiv.org/content/10.1101/2020.04.13.039735v1.full.pdf)
+
+---
+
+[6] Inhibition of polo-like kinase 1 (PLK1) facilitates reactivation of gamma-herpesviruses in B-cell lymphomas and their elimination.
+Ayan Biswas, Guillaume N. Fiches, Dawei Zhou, Zhenyu Wu, Xuefeng Liu, **Qin Ma**, Weiqiang Zhao, Jian Zhu, Netty G. Santoso<sup>$</sup>
+*bioRxiv*
+[[Abstract]](https://www.biorxiv.org/content/10.1101/2020.10.08.330548v2) [[Full paper]](https://www.biorxiv.org/content/10.1101/2020.10.08.330548v2.full.pdf)
+ 
+---
+
+[5] Analysis of next- and third-generation RNA-Seq data reveals the structures of alternative transcription units in bacterial genomes.
+Qi Wang, Zhaoqian Liu, Bo Yan, Wen-Chi Chou, Laurence M Ettwiller, **Qin Ma**, Bingqiang Liu<sup>$</sup>
+*bioRxiv*
+[[Abstract]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1.full.pdf)
+
 
 ---
 

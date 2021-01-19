@@ -1,6 +1,12 @@
 \* These authors contributed equally to the paper as first authors
 $ To whom correspondence should be addressed 
 
+---
+
+[25] Listeria monocytogenes upregulates mitochondrial calcium signaling to inhibit LC3-associated phagocytosis as a survival strategy.
+Tianliang Li, Ligang Kong, Xinghui Li, Sijin Wu, Kuldeep S.Attri, Yan Li, Weipeng Gong, Lupeng Li, Laura E. Herring, John M. Asara, Yu Lei, **Qin Ma**, Stephanie Seveau, John S Gunn, Xiaolin Cheng, Pankaj L. Singh, Douglas R. Green, Haibo Wang<sup>$</sup>, Haitao Wen<sup>$</sup>
+*Nature Microbiology (IF: 14.3)*
+[[Abstract]](https://www.nature.com/articles/s41564-020-00843-2) [[Full paper]](https://u.osu.edu/bmbl/files/2021/01/s41564-020-00843-2.pdf)
 
 ---
 
@@ -8,7 +14,6 @@ $ To whom correspondence should be addressed
 Qi Wang, Zhaoqian Liu, Bo Yan, Wen-Chi Chou, Laurence M Ettwiller, **Qin Ma**, Bingqiang Liu<sup>$</sup>
 *bioRxiv*
 [[Abstract]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1.full.pdf)
-
 
 ---
 
