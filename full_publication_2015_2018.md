@@ -41,7 +41,8 @@ Jinyu Yang, Xin Chen, Adam McDermaid, **Qin Ma**<sup>$</sup>
 [27] QUBIC: a Bioconductor package for qualitative biclustering analysis of gene co-expression data.
 Yu Zhang<sup>\*</sup>, Juan Xie<sup>\*</sup>, Jinyu Yang, Anne Fennell, **Qin Ma**<sup>$</sup>
 *Bioinformatics*
-[[Abstract]](https://academic.oup.com/bioinformatics/article/33/3/450/2572040) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2018-QUBIC-a-bioconductor-package-for-qualitative-biclustering-analysis-of-gene-co-expression-data.pdf)
+[[Abstract]](https://academic.oup.com/bioinformatics/article/33/3/450/2572040) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2018-QUBIC-a-bioconductor-package-for-qualitative-biclustering-analysis-of-gene-co-expression-data.pdf) [[Highlights from review]](https://u.osu.edu/bmbl/files/2021/01/qubic_highlights.pdf)
+
 
 ---
 
@@ -49,7 +50,7 @@ Yu Zhang<sup>\*</sup>, Juan Xie<sup>\*</sup>, Jinyu Yang, Anne Fennell, **Qin Ma
 [26] LncFinder: an integrated platform for long non-coding RNA identification utilizing sequence intrinsic composition, structural information and physicochemical property.
 Siyu Han, Yanchun Liang, **Qin Ma**, Yangyi Xu, Yu Zhang, Wei Du, Cankun Wang, Ying Li<sup>$</sup>
 *Briefings in Bioinformatics*
-[[Abstract]](https://academic.oup.com/bib/article/20/6/2009/5062950) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2018-LncFinder-an-integrated-platform-for-long-non-coding-RNA-identification-utilizing-sequence-intrinsic-composition-structural-information-and-physicochemical-property.pdf)
+[[Abstract]](https://academic.oup.com/bib/article/20/6/2009/5062950) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2018-LncFinder-an-integrated-platform-for-long-non-coding-RNA-identification-utilizing-sequence-intrinsic-composition-structural-information-and-physicochemical-property.pdf) [[Highlights from review]](https://u.osu.edu/bmbl/files/2021/01/lncfinder_nmi_mark.pdf) [[Highlights from application]](https://u.osu.edu/bmbl/files/2021/02/lncfinder_review2.pdf)
 
 ---
 

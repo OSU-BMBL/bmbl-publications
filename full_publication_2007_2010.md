@@ -2,7 +2,8 @@
 [5] QUBIC: A Qualitative Biclustering Algorithm for Analyses of Gene Expression Data.
 Guojun Li, **Qin Ma**, Haibao Tang, Andrew H. Paterson, Ying Xu<sup>$</sup>
 *Nucleic Acids Research*
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/19509312/) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/qubic1.pdf)
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/19509312/) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/qubic1.pdf) [[Highlights from review]](https://u.osu.edu/bmbl/files/2021/01/qubic1_highlights.pdf) 
+
 
 
 ---

@@ -166,7 +166,8 @@ Ye Xia, Seth Debolt, **Qin Ma**, Adam McDermaid, Cankun Wang, Nicole Shapiro, Ta
 [3] rSeqTU–a machine-learning based R package for prediction of bacterial transcription units.
 YSheng-Yong Niu, Bingqiang Liu, **Qin Ma**, Wen-Chi Chou<sup>$</sup>
 *Frontiers in Genetics*
-[[Abstract]](https://www.frontiersin.org/articles/10.3389/fgene.2019.00374/full) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2019-rSeqTU%E2%80%94A-Machine-Learning-Based-R-Package-for-Prediction-of-Bacterial-Transcription-Units.pdf)
+[[Abstract]](https://www.frontiersin.org/articles/10.3389/fgene.2019.00374/full) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/05/2019-rSeqTU%E2%80%94A-Machine-Learning-Based-R-Package-for-Prediction-of-Bacterial-Transcription-Units.pdf) [[Highlights from application]](https://u.osu.edu/bmbl/files/2021/02/rseqtu_highlights.pdf)
+
 
 
 ---

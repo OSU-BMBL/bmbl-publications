@@ -71,7 +71,7 @@ Michal T. Seweryn, Maciej Pietrzak, **Qin Ma**<sup>$</sup>
 [18] IRIS3: Integrated Cell-type-specific Regulon Inference Server from Single-cell RNA-Seq.
 Anjun Ma<sup>\*</sup>, Cankun Wang<sup>\*</sup>, Yuzhou Chang, Faith H. Brennan, Adam McDermaid, Bingqiang Liu, Chi Zhang, Phillip G. Popovich, **Qin Ma**<sup>$</sup>
 *Nucleic Acids Research*
-[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa394/5838867) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2020/05/gkaa394.pdf)
+[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa394/5838867) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2020/05/gkaa394.pdf) [[News]](https://rna-seqblog.com/iris3-integrated-cell-type-specific-regulon-inference-server-from-single-cell-rna-seq/)
 
 
 ---

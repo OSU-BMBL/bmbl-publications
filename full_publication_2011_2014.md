@@ -53,7 +53,7 @@ Chuan Zhou<sup>\*</sup>, **Qin Ma**<sup>\*</sup>, Xizeng Mao, Bingqiang Liu, Yan
 [11] DOOR 2.0: presenting operons and their functions through dynamic and integrated views.
 Xizeng Mao<sup>\*</sup>, **Qin Ma**, Chuan Zhou, Xin Chen, Hanyuan Zhang, Jincai Yang, Fenglou Mao, Wei Lai, Ying Xu<sup>$</sup>
 *Nucleic Acids Research*
-[[Abstract]](https://academic.oup.com/nar/article/42/D1/D654/1045168) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/DOOR2.pdf)
+[[Abstract]](https://academic.oup.com/nar/article/42/D1/D654/1045168) [[Full paper]](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/0/72768/files/2019/08/DOOR2.pdf) [[Highlights from application]](https://u.osu.edu/bmbl/files/2021/02/door_highlights1.pdf)
 
 ---
 
