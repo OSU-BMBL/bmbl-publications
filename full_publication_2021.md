@@ -1,5 +1,12 @@
 ---
 
+[11] A graph neural network model to estimate cell-wise metabolic flux using single cell RNA-seq data.
+Norah Alghamdi, Wennan Chang, Pengtao Dang, Xiaoyu Lu, Changlin Wan, Silpa Gampala, Zhi Huang, Jiashi Wang, **Qin Ma**, Yong Zang, Melissa Fishel<sup>$</sup>, Sha Cao<sup>$</sup>, Chi Zhang<sup>$</sup>
+*bioRxiv*
+[[Abstract]](https://www.biorxiv.org/content/10.1101/2020.09.23.310656v2) [[Full paper]](https://www.biorxiv.org/content/10.1101/2020.09.23.310656v2.full.pdf)
+ 
+---
+
 [10] Distinct CD8+ T Cell Programming in the Tumor Microenvironment Contributes to Sex Bias in Bladder Cancer Outcome.
 Hyunwoo Kwon, Dongjun Chung, Satoshi Kaneko, Anqi Li, Anjun Ma, Johanna Schafer, Lei Zhou, Brian Riesenberg, No-Joon Song, Yuzhou Chang, Tong Xiao, Debasish Sundi, David Oh, Lawrence Fong, **Qin Ma**, Xue Li, Zihai Li<sup>$</sup>
 *bioRxiv*
@@ -38,15 +45,15 @@ Gioacchino P. Marceca, Rosario Distefano, Luisa Tomasello, Alessandro Lagana’,
 
 [5] scGNN is a novel graph neural network model for single-cell RNA-Seq analysis.  
 Juexin Wang<sup>\*</sup>, Anjun Ma<sup>\*</sup>, Jianting Gong, Yuexu Jiang, Yuzhou Chang, Ren Qi, Cankun Wang, Hongjun Fu, **Qin Ma**<sup>$</sup>, Dong Xu<sup>$</sup>
-*Nature Communications (in press)*
-[[Abstract]](https://www.biorxiv.org/content/10.1101/2020.08.02.233569v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2020.08.02.233569v1.full.pdf)
+*Nature Communications*
+[[Abstract]](https://doi.org/10.1038/s41467-021-22197-x) [[Full paper]](https://u.osu.edu/bmbl/files/2021/03/Wang_et_al-2021-Nature_Communications-1.pdf)
 
 ---
 
 [4] Spectral radius and energy of Sombor matrix of graphs.
 Zhao Wang, Ivan Gutman, Jichang Wu, **Qin Ma**<sup>$</sup>
 *Filomat*
-[In press] [[Full paper]](https://u.osu.edu/bmbl/files/2020/12/Sombor-matrix.pdf)
+[In press] [[Full paper]](https://u.osu.edu/bmbl/files/2021/04/Spectral-Radius-and-Energy-of-Sombor-Matrix-of-Graphs.pdf)
 
 --- 
 

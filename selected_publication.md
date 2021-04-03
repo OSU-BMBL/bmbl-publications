@@ -11,10 +11,10 @@ Yuzhou Chang, Carter Allen, Changlin Wan, Dongjun Chung, Chi Zhang<sup>$</sup>, 
 
 ---
 
-[26] scGNN is a novel graph neural network model for single-cell RNA-Seq analysis.
+[26] scGNN is a novel graph neural network model for single-cell RNA-Seq analysis.  
 Juexin Wang<sup>\*</sup>, Anjun Ma<sup>\*</sup>, Jianting Gong, Yuexu Jiang, Yuzhou Chang, Ren Qi, Cankun Wang, Hongjun Fu, Qin Ma<sup>$</sup>, Dong Xu<sup>$</sup>
-*Nature Communications (in press)* (2021)
-[[Abstract]](https://www.biorxiv.org/content/10.1101/2020.08.02.233569v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2020.08.02.233569v1.full.pdf)
+*Nature Communications* (2021)
+[[Abstract]](https://doi.org/10.1038/s41467-021-22197-x) [[Full paper]](https://u.osu.edu/bmbl/files/2021/03/Wang_et_al-2021-Nature_Communications-1.pdf)
 
 ---
 
