@@ -3,6 +3,13 @@ $ To whom correspondence should be addressed
 
 --- 
 
+[28] A novel computational framework for genome-scale alternative transcription units prediction.
+Qi Wang, Zhaoqian Liu, Bo Yan, Wen-Chi Chou, Laurence M Ettwiller, **Qin Ma**<sup>$</sup>, Bingqiang Liu<sup>$</sup>
+*Briefings in Bioinformatics* (2021)
+[[Abstract]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab162/6265223?redirectedFrom=fulltext) [[Full paper]](https://u.osu.edu/bmbl/files/2021/05/bbab162.pdf)
+
+--- 
+
 [27] IRIS-FGM: an integrative single-cell RNA-Seq interpretation system for functional gene module analysis.
 Yuzhou Chang, Carter Allen, Changlin Wan, Dongjun Chung, Chi Zhang<sup>$</sup>, Zihai Li<sup>$</sup>,  Qin Ma<sup>$</sup>
 *Bioinformatics* (2021)

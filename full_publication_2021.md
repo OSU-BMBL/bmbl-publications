@@ -1,3 +1,15 @@
+[13] FACT subunit SUPT16H associates with BRD4 and contributes to silencing of antiviral interferon signaling.
+Dawei Zhou, Jun-Gyu Park, Zhenyu Wu, Huachao Huang, Guillaume N Fiches, Ayan Biswas, Tai-Wei Li, **Qin Ma**, Luis Martinez-Sobrido, Netty Santoso, Jian Zhu <sup>$</sup>
+*bioRxiv*
+[[Abstract]](https://www.biorxiv.org/content/10.1101/2021.04.21.440833v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.04.21.440833v1.full.pdf)
+ 
+ ---
+
+[12] Use of scREAD to Explore and Analyze Single-cell and Single-nucleus RNA-Seq data for Alzheimer’s Disease.
+Cankun Wang, Yujia Xiang, Hongjun Fu<sup>$</sup>, **Qin Ma**<sup>$</sup>
+*STAR Protocols*
+In press
+ 
 ---
 
 [11] A graph neural network model to estimate cell-wise metabolic flux using single cell RNA-seq data.
@@ -21,10 +33,10 @@ Ayan Biswas, Guillaume N. Fiches, Dawei Zhou, Zhenyu Wu, Xuefeng Liu, **Qin Ma**
  
 ---
 
-[8] Analysis of next- and third-generation RNA-Seq data reveals the structures of alternative transcription units in bacterial genomes.
-Qi Wang, Zhaoqian Liu, Bo Yan, Wen-Chi Chou, Laurence M Ettwiller, **Qin Ma**, Bingqiang Liu<sup>$</sup>
-*bioRxiv*
-[[Abstract]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.01.02.425006v1.full.pdf)
+[8] A novel computational framework for genome-scale alternative transcription units prediction.
+Qi Wang, Zhaoqian Liu, Bo Yan, Wen-Chi Chou, Laurence M Ettwiller, **Qin Ma**<sup>$</sup>, Bingqiang Liu<sup>$</sup>
+*Briefings in Bioinformatics* 
+[[Abstract]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab162/6265223?redirectedFrom=fulltext) [[Full paper]](https://u.osu.edu/bmbl/files/2021/05/bbab162.pdf)
 
 
 ---
