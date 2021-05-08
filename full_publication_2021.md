@@ -8,7 +8,7 @@ Dawei Zhou, Jun-Gyu Park, Zhenyu Wu, Huachao Huang, Guillaume N Fiches, Ayan Bis
 [12] Use of scREAD to Explore and Analyze Single-cell and Single-nucleus RNA-Seq data for Alzheimer’s Disease.
 Cankun Wang, Yujia Xiang, Hongjun Fu<sup>$</sup>, **Qin Ma**<sup>$</sup>
 *STAR Protocols*
-In press
+[[Abstract]](https://www.sciencedirect.com/science/article/pii/S2666166721002203) [[Full paper]](https://u.osu.edu/bmbl/files/2021/05/1-s2.0-S2666166721002203-main.pdf)
  
 ---
 
