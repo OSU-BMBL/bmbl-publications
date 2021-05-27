@@ -1,9 +1,16 @@
+[14] A concurrent canonical and modified miRNAome pan-cancer study on TCGA and TARGET cohorts leads to an enhanced resolution in cancer.
+Rosario Distefano, Luisa Tomasello, Gian Luca Rampioni Vinciguerra, Pierluigi Gasparini, Yujia Xiang, Marina Bagnoli, Gioacchino Paolo Marceca, Paolo Fadda, Alessandro Laganà, Mario Acunzo, **Qin Ma**, Giovanni Nigita<sup>$</sup>, Carlo M. Croce<sup>$</sup>
+*bioRxiv*
+[[Abstract]](https://www.biorxiv.org/content/10.1101/2021.05.18.444694v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.05.18.444694v1.full.pdf)
+ 
+---
+
 [13] FACT subunit SUPT16H associates with BRD4 and contributes to silencing of antiviral interferon signaling.
 Dawei Zhou, Jun-Gyu Park, Zhenyu Wu, Huachao Huang, Guillaume N Fiches, Ayan Biswas, Tai-Wei Li, **Qin Ma**, Luis Martinez-Sobrido, Netty Santoso, Jian Zhu <sup>$</sup>
 *bioRxiv*
 [[Abstract]](https://www.biorxiv.org/content/10.1101/2021.04.21.440833v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.04.21.440833v1.full.pdf)
  
- ---
+---
 
 [12] Use of scREAD to Explore and Analyze Single-cell and Single-nucleus RNA-Seq data for Alzheimer’s Disease.
 Cankun Wang, Yujia Xiang, Hongjun Fu<sup>$</sup>, **Qin Ma**<sup>$</sup>
