@@ -1,3 +1,18 @@
+
+[16] VTwins: Identifying Robust Associations from High-dimensional Data of Limited Samples.
+Qingren Meng, Qian Zhou, **Qin Ma**, Jun Yu, Jun Chen, Yu Kang<sup>$</sup>
+*Research Square* (under review)
+[[Abstract]](https://www.researchsquare.com/article/rs-116301/v1) [[Full paper]](https://assets.researchsquare.com/files/rs-116301/v1/1ec26348-95eb-4432-8b65-5044f66e22c1.pdf)
+
+---
+
+[15] A Bayesian Multivariate Mixture Model for Spatial Transcriptomics Data.
+Carter Allen, Yuzhou Chang, Brian Neelon, Won Chang, Hang Kim, Zihai Li, **Qin Ma**, Dongjun Chung<sup>$</sup>
+*bioRxiv*
+[[Abstract]](https://www.biorxiv.org/content/10.1101/2021.06.23.449615v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2021.06.23.449615v1.full.pdf)
+
+---
+
 [14] A concurrent canonical and modified miRNAome pan-cancer study on TCGA and TARGET cohorts leads to an enhanced resolution in cancer.
 Rosario Distefano, Luisa Tomasello, Gian Luca Rampioni Vinciguerra, Pierluigi Gasparini, Yujia Xiang, Marina Bagnoli, Gioacchino Paolo Marceca, Paolo Fadda, Alessandro Laganà, Mario Acunzo, **Qin Ma**, Giovanni Nigita<sup>$</sup>, Carlo M. Croce<sup>$</sup>
 *bioRxiv*
@@ -56,8 +71,8 @@ Yan Wang, Shuangquan Zhang, Anjun Ma, Cankun Wang, Zhenyu Wu, Dong Xu, **Qin Ma*
 
 ---
 [6] MiREDiBase: a manually curated database of editing events in microRNAs. 
-Gioacchino P. Marceca, Rosario Distefano, Luisa Tomasello, Alessandro Lagana’, Francesco Russo, Federica Calore, Giulia Romano, Marina Bagnoli, Pierluigi Gasparini, Alfredo Ferro, Mario Acunzo, **Qin Ma**, Carlo M. Croce, Giovanni Nigita
-*bioRxiv*
+Gioacchino P. Marceca, Rosario Distefano, Luisa Tomasello, Alessandro Lagana, Federica Calore, Francesco Russo, Marina Bagnoli, Giulia Romano, Pierluigi Gasparini, Mario Acunzo, **Qin Ma**, Carlo M. Croce, and Giovanni Nigita<sup>$</sup>
+*Scientific Data* (in press)
 [[Abstract]](https://www.biorxiv.org/content/10.1101/2020.09.04.283689v1) [[Full paper]](https://www.biorxiv.org/content/10.1101/2020.09.04.283689v1.full.pdf) 
 
 ---
